@@ -5,7 +5,7 @@
 }
 
 .container {
-  background-color: #111;
+  background-color: #384675;
   overflow: hidden;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .saluteText {
-  color: #333;
+  color: #dbdbdb;
   font-size: 60vw;
   cursor: default;
 }
@@ -40,12 +40,12 @@
 
 .nameContainer {
   height: 100vh;
-  background-color: rebeccapurple;
+  background-color: #425248;
 }
 
 .name {
   font-size: 15vw;
-  color: #333;
+  color: #dbdbdb;
   cursor: default;
   text-align: left;
   line-height: 100vh;
@@ -56,15 +56,15 @@
 }
 
 .dark {
-  background: url("./img/bg1.png");
+  background: #444444 url("./img/bg1.png");
 }
 .purple {
-  background: rebeccapurple url("./img/bg2.png");
+  background: #444444 url("./img/bg1.webp");
 }
 
 .jobTitle {
   font-size: 10vw;
-  color: #333;
+  color: #dbdbdb;
   line-height: 100vh;
   cursor: default;
 }
@@ -78,7 +78,7 @@
 
 .projectsTitle {
   font-size: 10vw;
-  color: #333;
+  color: #dbdbdb;
 }
 
 .project {
